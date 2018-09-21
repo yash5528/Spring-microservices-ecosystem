@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\MST\\labs\\usecase\\.git;D\:\\MST\\ecosystem\\.git;D\:\\MST\\yash\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\MST\\ecosystem\\.git;D\:\\MST\\yash\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
